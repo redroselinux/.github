@@ -2,6 +2,7 @@
 
 Crust aims to make Linux more beautiful, functional, and simple.
 
-- Crust - our interactive Linux shell, currently wrapping around Bash
-- Ostre - the replacement of Bash in Crust
-- [@minixorlinux](https://github.com/minixorlinux) - an Arch-based Linux distro using our projects
+- ✅ Crust - our interactive Linux shell, currently wrapping around Bash
+- 🏗️ Ostre - the replacement of Bash in Crust
+- 🏗️ Car - the replacement of pacman in Minixor (will support pacman repos)
+- 🏗️ [@minixorlinux](https://github.com/minixorlinux) - an Arch-based Linux distro using our projects
