@@ -4,6 +4,21 @@ Crust aims to make Linux more beautiful, functional, and simple.
 
 - ✅ Crust - our interactive Linux shell, currently wrapping around Bash
 - 🏗️ Ostre - the replacement of Bash in Crust
+  - [ ] never require shift
+  - [ ] syntax like: .p instead of |
 - ✅ Umbrella - intelligent corrections like what package to install to fix an issue
+  - [x] autocorrect package
+  - [x] package not found - suggest install command 
 - 🏗️ Car - the replacement of pacman in Minixor (will support pacman repos)
+  - [x] basic features
+  - [ ] mirrors
+  - [ ] threading for speeeed
+  - [ ] all important packages included
+  - [ ] stable (Minixor Check), rolling (Minixor Rain)
+  - [ ] integrate as main pm for the archiso profile (somehow?)
 - 🏗️ [@minixorlinux](https://github.com/minixorlinux) - an Arch-based Linux distro using our projects
+  - [ ] use crust
+  - [ ] use car
+  - [ ] use umbrella
+  - [ ] calamares installer
+  - [x] graphical interface in live
