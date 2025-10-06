@@ -7,7 +7,7 @@ Redrose aims to make Linux more beautiful, functional, and simple.
 - ✅ Umbrella - intelligent corrections like what package to install to fix an issue
   - [x] autocorrect package
   - [x] package not found - suggest install command 
-- 🏗️ Car - the replacement of pacman in Minixor (will support pacman repos)
+- 🏗️ Car - the replacement of pacman in Redrose (will support pacman repos)
   - [x] basic features
   - [ ] mirrors
   - [ ] threading for speeeed
