@@ -16,10 +16,10 @@ Redrose aims to make Linux more beautiful, functional, and simple.
   - [ ] integrate as main pm for the archiso profile (somehow?)
   - [ ] package repro
 - 🏗️ RedRepro - a tool for more advanced system repro
-- [ ] integrate with car repro
-- [ ] other package managers
-- [ ] configs
-- [ ] browser data 
+  - [ ] integrate with car repro
+  - [ ] other package managers
+  - [ ] configs
+  - [ ] browser data 
 - 🏗️ Redrose Linux - an Arch-based Linux distro using our projects
   - [ ] use crust
   - [ ] use car
