@@ -9,12 +9,12 @@ Redrose aims to make Linux more beautiful, functional, and simple.
   - [x] package not found - suggest install command 
 - 🏗️ Car - the replacement of pacman in Redrose (will support pacman repos)
   - [x] basic features
-  - [ ] mirrors
+  - [x] mirrors
   - [ ] threading for speeeed
   - [ ] all important packages included
   - [ ] stable (Redrose Flower), rolling (Redrose Tree)
   - [ ] integrate as main pm for the archiso profile (somehow?)
-  - [ ] package repro
+  - [x] package repro
 - 🏗️ RedRepro - a tool for more advanced system repro
   - [ ] integrate with car repro
   - [ ] other package managers
