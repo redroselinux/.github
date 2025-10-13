@@ -1,5 +1,8 @@
 Redrose aims to make Linux more beautiful, functional, and simple.
 
+Status: fixing search functionality in car (locally)
+        adding core packages to car
+
 - ✅ Crust - our interactive Linux shell, currently wrapping around Bash
 - 🏗️ Ostre - the replacement of Bash in Crust
   - [ ] never require shift
