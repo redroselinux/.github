@@ -5,12 +5,12 @@ Redrose aims to make Linux more beautiful, functional, and simple.
   - [ ] never require shift
   - [ ] syntax like: .p instead of |
 -  🏗️ i4 - a DE on top of i3
-  - [ ] settings app
-    - [x] modifier set
-    - [ ] displays
-    - [ ] network
-  - [ ] lock screen
-  - [ ] widgets
+    - [ ] settings app
+      - [x] modifier set
+      - [ ] displays
+      - [ ] network
+    - [ ] lock screen
+    - [ ] widgets
 - ✅ Umbrella - intelligent corrections like what package to install to fix an issue
   - [x] autocorrect package
   - [x] package not found - suggest install command 
