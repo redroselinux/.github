@@ -8,7 +8,7 @@ Redrose aims to make Linux more beautiful, functional, and simple.
     - [ ] settings app
       - [x] modifier set
       - [ ] displays
-      - [ ] network
+      - [x] network
     - [ ] lock screen
     - [ ] widgets
 - ✅ Umbrella - intelligent corrections like what package to install to fix an issue
