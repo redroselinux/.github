@@ -17,6 +17,7 @@ Redrose aims to make Linux more beautiful, functional, and simple.
   - [x] autocorrect package
   - [x] package not found - suggest install command 
 - 🏗️ Car - the replacement of pacman in Redrose (will support pacman repos)
+  - https://redroselinux.github.io/car-package-viewer
   - [x] basic features
   - [x] mirrors
   - [ ] threading for speeeed
