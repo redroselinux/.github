@@ -1,6 +1,8 @@
 Redrose aims to make Linux more beautiful, functional, and simple.
 
 - ✅ Crust - our interactive Linux shell, currently wrapping around Bash
+  - `yay -S crust-git`
+  - `pip install crust-shell` / to install globally: ` --break-system-packages` 
 - 🏗️ Ostre - the replacement of Bash in Crust
   - [ ] never require shift
   - [ ] syntax like: .p instead of |
