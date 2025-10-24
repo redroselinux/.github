@@ -23,7 +23,6 @@ Redrose aims to make Linux more beautiful, functional, and simple.
   - [ ] threading for speeeed
   - [ ] all important packages included
   - [ ] stable (Redrose Flower), rolling (Redrose Tree)
-    - Redrose Flower preferred
   - [ ] integrate as main pm for the archiso profile (somehow?)
   - [x] package repro
 - 🏗️ RedRepro - a tool for more advanced system repro
