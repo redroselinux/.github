@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="40" height="40" src="https://github.com/user-attachments/assets/0b917dc4-5b9f-412e-a244-e8ec0eb58c1a" alt="logo" />
+  <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/2ae22b1a-0162-43c7-b522-c741fabbb9fb" />
   Redrose Linux
 </h1>
 <p align="center">
