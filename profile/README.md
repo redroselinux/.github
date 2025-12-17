@@ -11,9 +11,6 @@ Redrose Linux is an Arch-based project focused on unifying beauty, usability, an
   🏗️ Roadmap
 </summary>
 
-- 🏗️ Ostre - the custom Linux shell for Redrose
-  - [ ] never require shift
-  - [ ] syntax like: .p instead of |
 -  🏗️ i4 - a DE on top of i3
     - [ ] settings app
       - [x] modifier set
