@@ -7,6 +7,11 @@
 </p>
 
 Redrose Linux is an Arch-based project focused on unifying beauty, usability, and simplicity across the Linux experience - from the shell to the desktop environment. This distro has a custom package manager that does not use the base of pacman. Later, we will turn into an independent distro, but the beta uses Arch.
+
+Inspired by "KISS" our goal is SOFT - simple, open, free tooling.
+
+[![Matrix Chat](https://img.shields.io/badge/Matrix-%23redrose__linux-green?logo=matrix&logoColor=white)](https://matrix.to/#/#redrose_linux:matrix.org)
+
 <details> <summary>
   🏗️ Roadmap
 </summary>
