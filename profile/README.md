@@ -6,7 +6,7 @@
   <code>Redrose aims to make Linux more beautiful, functional, and simple.</code>
 </p>
 
-Redrose Linux is an Arch-based project focused on unifying beauty, usability, and simplicity across the Linux experience - from the shell to the desktop environment. This distro has a custom package manager that does not use the base of pacman. Later, we will turn into an independent distro, but the beta uses Arch.
+Redrose Linux is an independent project focused on unifying beauty, usability, and simplicity across the Linux experience - from the shell to the desktop environment. This distro has a custom package manager that does not use any base.
 
 Inspired by "KISS" our goal is SOFT - simple, open, free tooling.
 
@@ -17,28 +17,11 @@ Inspired by "KISS" our goal is SOFT - simple, open, free tooling.
 </summary>
 
 -  🏗️ i4 - a DE on top of i3
-    - [ ] settings app
-      - [x] modifier set
-      - [ ] displays
-      - [x] network
-      - [x] disks overview
-      - [x] wallpaper 
-    - [ ] lock screen
-    - [ ] widgets
 - ✅ Umbrella - intelligent corrections like what package to install to fix an issue
-  - [x] autocorrect package
-  - [x] package not found - suggest install command 
 - ✅ Car - the replacement of pacman in Redrose (will support pacman repos through conversion, not makepkg)
   - https://redroselinux.github.io/car-package-viewer
 - 🏗️ RedRepro - a tool for more advanced system repro
-  - [ ] integrate with car repro
-  - [ ] other package managers
-  - [ ] configs
-  - [ ] browser data 
 - 🏗️ Redrose Linux
-  - [ ] use car
-  - [ ] use umbrella
-  - [ ] installer
 </details>
 <details>
 <summary>📜 License</summary>
