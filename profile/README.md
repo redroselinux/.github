@@ -14,8 +14,7 @@ Redrose Linux is an independent project focused on unifying beauty, usability, a
 
 -  🏗️ i4 - a DE on top of i3
 - ✅ Umbrella - intelligent corrections like what package to install to fix an issue
-- ✅ Car - the replacement of pacman in Redrose (will support pacman repos through conversion, not makepkg)
-  - https://redroselinux.github.io/car-package-viewer
+- ✅🏗️ Car - package manager
 - 🏗️ RedRepro - a tool for more advanced system repro
 - 🏗️ Redrose Linux
 </details>
