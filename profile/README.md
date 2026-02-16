@@ -3,10 +3,10 @@
   Redrose Linux
 </h1>
 <p align="center">
-  <code>Redrose aims to make Linux more beautiful, functional, and simple.</code>
+  <code>actually not another arch-based distro!</code>
 </p>
 
-Redrose Linux is an independent project focused on unifying beauty, usability, and simplicity across the Linux experience - from the shell to the desktop environment. This distro has a custom package manager that does not use any base.
+We are an independent distro from Europe (slovakia). This distro is kind of opinionated, is reproducible, FOSS-only (possible to override) and has a custom package manager. 
 
 <details>
 <summary>📜 License</summary>
