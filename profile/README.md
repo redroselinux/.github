@@ -6,7 +6,7 @@
   <code>actually not another arch-based distro!</code>
 </p>
 
-We are an independent distro from Europe (slovakia). This distro is kind of opinionated, is reproducible, FOSS-only (possible to override) and has a custom package manager. 
+This is an independent distro from Europe (slovakia). This distro is kind of opinionated, is reproducible, FOSS-only (possible to override) and has a custom package manager. Mainly made for my own needs and for what I like about Linux.
 
 <details>
 <summary>📜 License</summary>
