@@ -12,12 +12,8 @@ This is an independent distro from Europe (slovakia). This distro is kind of opi
 <summary>📜 License</summary>
 
 Redrose Linux is licensed under the **GNU General Public License v3.0 (GPLv3)**.
-
-**Exceptions:**
-- [umbrella](https://github.com/redroselinux/umbrella) - licensed under the [Unlicense](https://unlicense.org/).
-- [crust](https://github.com/redroselinux/crust) - licensed under the [MIT License](https://github.com/redroselinux/crust/blob/main/LICENSE) **with minor edits**.
-- If an item that is ment to be in this list is missing, that means that the licensew it states is the correct one.
-- Third-party software included in Redrose Linux retains its original license terms.
-- If not stated, the license is GPLv3.
+Any of our projects does not have to use GPLv3, but the main part (repo redroselinux/redroselinux) is always GPLv3 licensed.
 
 </details>
+
+To contact me (the lead dev (the only dev of this project)) use the email mostypc123@redroselinux.org, and to talk about security send an email to security@redroselinux.org. If you need to ask a question, send an email to questions@redroselinux.org.
