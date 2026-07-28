@@ -8,11 +8,12 @@
 
 An independent x86_64 systemd-free FOSS-only-by-default Linux distribution from Slovakia. We have a custom package manager and a custom DE is coming soon. There are also plans for reproducibiity in the distro. 
 
+Please check out the [main repo](https://github.com/redroselinux/redroselinux), and if you like Redrose, please star it! Our website is available at [redroselinux.org](https://redroselinux.org), where you can find downloads, docs, and a lot more!
+
 <details>
 <summary>📜 License</summary>
 
-Redrose Linux is licensed under the **GNU General Public License v3.0 (GPLv3)**.
-Any of our projects does not have to use GPLv3, but the main part (repo redroselinux/redroselinux) is always GPLv3 licensed.
+Redrose Linux is licensed under the **GNU General Public License v3.0 (GPLv3)**. Unless explicitly mentioned, everything we make is licensed under the GPLv3 license.
 
 </details>
 
