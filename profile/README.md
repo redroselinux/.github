@@ -6,7 +6,7 @@
   <code>actually not another arch-based distro!</code>
 </p>
 
-An independent x86_64 systemd-free FOSS-only-by-default Linux distribution from Slovakia. We have a custom package manager and a custom DE is coming soon. There are also plans for reproducibiity in the distro. 
+Redrose Linux (please do not type: RedRoseLinux, Red Rose Linux or RedRose Linux) is an independent x86_64 systemd-free FOSS-only-by-default Linux distribution from Slovakia. We have a custom package manager and a custom DE is coming soon. There are also plans for reproducibiity in the distro. 
 
 Please check out the [main repo](https://github.com/redroselinux/redroselinux), and if you like Redrose, please star it! Our website is available at [redroselinux.org](https://redroselinux.org), where you can find downloads, docs, and a lot more!
 
